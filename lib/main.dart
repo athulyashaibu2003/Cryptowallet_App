@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
         //     BlocProvider(create: (context) => CryptoBloc()),
         //     BlocProvider(create: (context) => WatchlistBloc()),
         //   ],
-        //   child: const ScreenHome(),
+        //  child: const ScreenHome(),
         // ),
         );
   }
